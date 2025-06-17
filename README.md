@@ -79,7 +79,7 @@ It is especially useful for homeowners managing their own construction projects 
 **🔷 Tools & Technologies**
 
 - Power BI (DAX, Power Query,Google Sheet)
-- ChatGPT
+- AI
 
 **🔷 How to Use**
 
