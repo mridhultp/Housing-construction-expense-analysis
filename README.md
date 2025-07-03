@@ -81,7 +81,7 @@ It is especially useful for homeowners managing their own construction projects 
 
 **🔷 Tools & Technologies**
 
-- Power BI (DAX, Power Query,Google Sheet)
+- Power BI (DAX, Power Query) and Google Sheet
 - AI
 
 **🔷 How to Use**
