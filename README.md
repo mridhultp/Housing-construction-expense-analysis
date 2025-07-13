@@ -4,8 +4,10 @@
 
 Exploring and analyzing housing construction expenses using data analytics.
 
-This construction dashboard offers a clear financial overview of a building project for a 1050 sqft area. It highlights labour costs, material expenses, daily spending, and the current cash position, enabling better monitoring and budgeting. The dashboard provides transparency into where and how funds are being used.
+This construction dashboard offers a clear financial overview of a building project for a 1030 sqft area. It highlights labour costs, material expenses, daily spending, and the current cash position, enabling better monitoring and budgeting. The dashboard provides transparency into where and how funds are being used.
+
 This Power BI dashboard is designed to track and analyze the construction expenses of a residential house project. It offers a comprehensive view of financial metrics, phase-wise progress, actual vs estimated expenses, and provides interactive tools like drillthrough functionality to explore granular data.
+
 The dashboard aims to assist in monitoring budget utilization, identifying cost overruns, and making informed decisions related to materials, labor, and capital expenditure during the different construction stages.
 
 **🔷 2. Background**
@@ -19,9 +21,10 @@ The construction project is currently in progress, with the foundation work comp
 - Capital assets (e.g., tools, machinery)
 - Pre-construction costs (legal, architect fees, etc.)
   
-The project is being partially funded by a loan, and therefore, tracking expenditure versus available funds is critical. This dashboard serves as a live monitor of financial performance, with the ability to drill down into each phase or category for deeper insights.
+The project is being funded by a loan, and therefore, tracking expenditure versus available funds is critical. This dashboard serves as a live monitor of financial performance, with the ability to drill down into each phase or category for deeper insights.
 
-<img width="1323" height="737" alt="image" src="https://github.com/user-attachments/assets/04232a32-b0be-4ea6-9149-759e26c3fd02" />
+<img width="1323" height="737" alt="image" src="https://github.com/user-attachments/assets/a374bcb4-9c84-47b8-9d01-0c9e2631452c" />
+
 
 
 
@@ -31,40 +34,16 @@ The project is being partially funded by a loan, and therefore, tracking expendi
 
 **🔷 3. Key Points in Detail**
 
-A. KPI Cards (Top Tiles)
-- Estimated Cost: ₹2,340,000 (based on early projections)
-- Loan Received: ₹500,000
-- Total Expenses: ₹305,640 (actual till date)
-- Breakdown:
-  - Material: ₹145,670
-  - Labour: ₹108,300
-  - Capital: ₹24,850
-  - Pre-construction: ₹26,830
-(All KPIs are dynamic and support drillthrough to view detailed transactions.)
-B. Variance Analysis
-- Bar chart compares Estimated vs Actual cost across phases.
-- Foundation phase shows significant variance—useful for identifying overspending.
-C. Loan vs Expense Gauge
-- Donut chart comparing Total Loan vs Actual Expenses.
-D. Cumulative Material vs Labour Chart
-- Line chart showing monthly or weekly trends in material and labor costs.
-E. Expense Forecasting
-- Line chart using predictive trend lines (Power BI forecast feature).
-F. Project Status Table
-- Tabular view of 12 construction phases with status.
-- Drillthrough opens all transactions tied to a particular phase.
-- 
+I created this dashboard to keep track of each phase of my house construction, comparing estimated vs actual costs. It clearly shows how much loan was credited, how much I’ve spent, and which phases are over or under budget. This helps me plan better.
+
+
 **🔷 4. Usage of DAX (Data Analysis Expressions)**
 
-Several DAX measures and calculated columns were used to create this dashboard:
-- Total Expenses = SUM(Expense[Amount])
-- Remaining Loan = [Loan Amount] - [Total Expenses]
-- Variance = [Estimated Cost] - [Total Expenses]
-- Material Cost = CALCULATE(SUM(Expense[Amount]), Expense[Type]="Material")
-- Forecast = FORECAST.LINEAR(...) (in visuals)
-Drillthrough filters were also managed using “SelectedValue” DAX pattern to ensure dynamic detail pages.
+I used DAX to calculate key metrics like budget used, loan credited, and the ratio of labour vs material. It also helped me apply filters, track progress by phase, and show status changes automatically as work moves from ‘yet to start’ to ‘completed’.
 
 **🔷 5. Graphs & Visualizations Used**
+
+I used line charts for daily and overall expenses, a donut chart to compare loan vs spending, and a stacked bar chart for forecasts. There's also a detailed table with color coding to easily spot budget differences. Filters make it easy to view specific info.
 
 - Bar Chart: Estimated vs Actual expenses (Variance by Phase)
 - Donut Chart: Loan Credited vs Spent
@@ -75,7 +54,10 @@ Drillthrough filters were also managed using “SelectedValue” DAX pattern to 
   
 **🔷 6. Conclusion**
 
+This dashboard really helped me stay in control of my brothers home construction budget. It gave me clarity on where my money is going and helped me make informed decisions. I believe anyone building a house can benefit from something like this to avoid surprises.
+
 This dashboard is a powerful and interactive tool that brings visibility, control, and insight to the complex financial side of house construction. With effective use of DAX calculations, visual storytelling, and drillthrough-enabled insights, it:
+
 - Simplifies budget tracking
 - Enhances accountability for every rupee spent
 - Supports future planning through forecasting
