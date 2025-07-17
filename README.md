@@ -23,7 +23,8 @@ The construction project is currently in progress, with the foundation work comp
   
 The project is being funded by a loan, and therefore, tracking expenditure versus available funds is critical. This dashboard serves as a live monitor of financial performance, with the ability to drill down into each phase or category for deeper insights.
 
-<img width="1348" height="792" alt="image" src="https://github.com/user-attachments/assets/f4706cf9-4360-4d87-8955-1dead839f839" />
+<img width="1411" height="787" alt="image" src="https://github.com/user-attachments/assets/bdbbbdec-14ee-418f-8563-a29afda25ca8" />
+
 
 
 
