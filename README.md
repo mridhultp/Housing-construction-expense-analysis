@@ -23,7 +23,9 @@ The construction project is currently in progress, with the foundation work comp
   
 The project is being funded by a loan, and therefore, tracking expenditure versus available funds is critical. This dashboard serves as a live monitor of financial performance, with the ability to drill down into each phase or category for deeper insights.
 
-<img width="1358" height="753" alt="image" src="https://github.com/user-attachments/assets/1105dce1-ab86-482d-ba80-ce257ab8934a" />
+<img width="1332" height="751" alt="image" src="https://github.com/user-attachments/assets/7548aa29-2a20-4df7-8524-bf1f96271dc4" />
+
+<img width="792" height="747" alt="image" src="https://github.com/user-attachments/assets/6ec7bce3-f661-40d3-b64f-0e48c49fd328" />
 
 
 
@@ -61,7 +63,7 @@ I used line charts for daily and overall expenses, a donut chart to compare loan
   
 **🔷 6. Conclusion**
 
-This dashboard really helped me stay in control of my brothers home construction budget. It gave me clarity on where my money is going and helped me make informed decisions. I believe anyone building a house can benefit from something like this to avoid surprises.
+This dashboard really helped me stay in control of home construction budget. It gave me clarity on where my money is going and helped me make informed decisions. I believe anyone building a house can benefit from something like this to avoid surprises.
 
 This dashboard is a powerful and interactive tool that brings visibility, control, and insight to the complex financial side of house construction. With effective use of DAX calculations, visual storytelling, and drillthrough-enabled insights, it:
 
