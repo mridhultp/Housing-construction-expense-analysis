@@ -4,7 +4,7 @@
 
 Exploring and analyzing housing construction expenses using data analytics.
 
-This construction dashboard offers a clear financial overview of a building project for a 1030 sqft area. It highlights labour costs, material expenses, daily spending, and the current cash position, enabling better monitoring and budgeting. The dashboard provides transparency into where and how funds are being used.
+This construction dashboard offers a clear financial overview of a building project for a 1160 sqft area. It highlights labour costs, material expenses, daily spending, and the current cash position, enabling better monitoring and budgeting. The dashboard provides transparency into where and how funds are being used.
 
 This Power BI dashboard is designed to track and analyze the construction expenses of a residential house project. It offers a comprehensive view of financial metrics, phase-wise progress, actual vs estimated expenses, and provides interactive tools like drillthrough functionality to explore granular data.
 
@@ -28,7 +28,8 @@ The project is being funded by a loan, and therefore, tracking expenditure versu
 
 
 
-<img width="1328" height="735" alt="image" src="https://github.com/user-attachments/assets/95663e94-5f1e-449a-bdbe-9a37ce27c54e" />
+<img width="1326" height="738" alt="image" src="https://github.com/user-attachments/assets/83db71b9-c6de-4442-a0e8-374915578274" />
+
 
 
 <img width="1757" height="727" alt="image" src="https://github.com/user-attachments/assets/0e068bfc-d8ce-46d4-bdb6-6198279b7b3e" />
@@ -37,13 +38,6 @@ The project is being funded by a loan, and therefore, tracking expenditure versu
 
 
 <img width="792" height="747" alt="image" src="https://github.com/user-attachments/assets/6ec7bce3-f661-40d3-b64f-0e48c49fd328" />
-
-
-
-
-
-
-
 
 
 
