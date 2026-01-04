@@ -31,6 +31,10 @@ The project is being funded by a loan, and therefore, tracking expenditure versu
 <img width="1328" height="735" alt="image" src="https://github.com/user-attachments/assets/95663e94-5f1e-449a-bdbe-9a37ce27c54e" />
 
 
+<img width="1757" height="727" alt="image" src="https://github.com/user-attachments/assets/0e068bfc-d8ce-46d4-bdb6-6198279b7b3e" />
+
+
+
 
 <img width="792" height="747" alt="image" src="https://github.com/user-attachments/assets/6ec7bce3-f661-40d3-b64f-0e48c49fd328" />
 
