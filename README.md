@@ -1,4 +1,4 @@
-****House Construction Expense Tracker Dashboard**
+****House Construction Expense Tracker Power BI Dashboard**
 
 **🔷 1. Introduction**
 
@@ -21,7 +21,7 @@ The construction project is currently in progress, with the foundation work comp
 - Capital assets (e.g., tools, machinery)
 - Pre-construction costs (legal, architect fees, etc.)
   
-The project is being funded by a loan, and therefore, tracking expenditure versus available funds is critical. This dashboard serves as a live monitor of financial performance, with the ability to drill down into each phase or category for deeper insights.
+The Construction is being funded by a loan, and therefore, tracking expenditure versus available funds is critical. This dashboard serves as a live monitor of financial performance, with the ability to drill down into each phase or category for deeper insights.
 
 
 <img width="1300" height="781" alt="image" src="https://github.com/user-attachments/assets/e4ea57c5-400e-48ed-ba7c-858dc617cf8c" />
