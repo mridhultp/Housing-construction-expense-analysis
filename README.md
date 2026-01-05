@@ -28,17 +28,22 @@ The Construction is being funded by a loan, and therefore, tracking expenditure 
 
 
 
-<img width="1326" height="738" alt="image" src="https://github.com/user-attachments/assets/83db71b9-c6de-4442-a0e8-374915578274" />
-
-
-
-<img width="1757" height="727" alt="image" src="https://github.com/user-attachments/assets/0e068bfc-d8ce-46d4-bdb6-6198279b7b3e" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/b6150fe8-9219-4afc-bbd8-2ba1cdde6b41" />
 
 
 
 
-<img width="792" height="747" alt="image" src="https://github.com/user-attachments/assets/6ec7bce3-f661-40d3-b64f-0e48c49fd328" />
+<img width="1382" height="786" alt="image" src="https://github.com/user-attachments/assets/aeb29461-fcf6-44cb-a8d9-6fdb697674f3" />
 
+
+
+<img width="1380" height="655" alt="image" src="https://github.com/user-attachments/assets/8d684c66-fc07-46bc-b720-9ad516f1dac4" />
+
+
+
+
+
+<img width="877" height="675" alt="image" src="https://github.com/user-attachments/assets/bbb7fb05-dab0-444f-880c-3405379c6430" />
 
 
 
